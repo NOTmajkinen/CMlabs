@@ -1,0 +1,6 @@
+﻿add circle ZERO (0, 0) radius 5
+add rectangle R1 (-200, 100) (200, -100)
+move R1 (50, 50)
+rotate scene 30
+copy R1 to R2
+reflect horizontally R2

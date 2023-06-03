@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "BigNumberLibrary": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\cpyte\\OneDrive\\Рабочий стол\\nikita_atmaykin-master\\Lab-4\\Lib\\BigNumberLibraryReviewApp\\Program.cs"
+    }
+  }
+}
